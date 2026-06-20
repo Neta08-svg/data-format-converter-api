@@ -1,0 +1,9 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-07-09/server.schema.json",
+  "name": "io.github.neta08-svg/formatforge",
+  "description": "Convert structured data between JSON, CSV, TSV, YAML and XML.",
+  "version": "1.0.0",
+  "packages": [
+    { "registryType": "npm", "identifier": "formatforge-mcp", "version": "1.0.0", "transport": { "type": "stdio" } }
+  ]
+}
